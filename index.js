@@ -6,7 +6,6 @@ import fs from 'fs';
 import _ from 'lodash';
 import ProgressBar from 'progress';
 import path from 'path';
-import keywords from 'retext-keywords';
 import {
     normalize,
     schema
@@ -16,6 +15,8 @@ import {
 (async () => {
     
     try {
+
+        return;
 
         const launchOptions = {
             // headless: false,
