@@ -16,8 +16,6 @@ import {
     
     try {
 
-        return;
-
         const launchOptions = {
             // headless: false,
             slowMo: 250,
