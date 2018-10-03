@@ -15,6 +15,6 @@ npm install
 ## Running the boilerplate
 This will monitor the node.js application and build a bundle file
 ```
-    yarn run dev
+yarn run dev
 ```
 
